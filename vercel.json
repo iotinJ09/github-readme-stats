@@ -8,7 +8,23 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github.com/anuraghazra/github-readme-stats"
+      "destination": "https://iotinj09.com"
+    },
+    {
+      "source": "/discord",
+      "destination": "https://iotinj09.com/discord"
+    },
+    {
+      "source": "/youtube",
+      "destination": "https://iotinj09.com/youtube"
+    },
+    {
+      "source": "/twitter",
+      "destination": "https://iotinj09.com/twitter"
+    },
+    {
+      "source": "/x",
+      "destination": "https://iotinj09.com/x"
     }
   ]
 }
